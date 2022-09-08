@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @14-Hari-14
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on ...
+- Im interested in contributing to open source game development and exploring more stuff to program
 - 📫 How to reach me nhari142004@gmail.com
 
 <!---
