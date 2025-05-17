@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harishanker S Nair
 
 **AI/ML Enthusiast | Full-Stack Developer | Open-Source Contributor**  
-📍 Kochi, India | 📧 nhari142004@gmail.com |
+📍 Kochi, India | 📧 nhari142004@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishankersnair/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://harinair.vercel.app/)
@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat&logo=nextdotjs&logoColor=white)
 
