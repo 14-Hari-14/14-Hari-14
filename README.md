@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Harishanker S Nair
 
 **AI/ML Enthusiast | Full-Stack Developer | Open-Source Contributor**  
-📍 Kochi, India | 📧 nhari142004@gmail.com | 📞 +91 9971815921  
+📍 Kochi, India | 📧 nhari142004@gmail.com |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishankersnair/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://harinair.vercel.app/)
 
 ---
 
@@ -16,7 +15,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat&logo=nextdotjs&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -32,44 +31,10 @@
 
 ---
 
-## 🚀 **Featured Projects**
 
-### 1. **Grammar Analyser for Spoken Audio**  
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourrepo/grammar-analyzer)  
-- Built a pipeline using **OpenAI Whisper** and **LanguageTool** to transcribe audio and detect grammar errors.  
-- Engineered features (error severity, speech rate) for a **Random Forest model** (R²: **0.65–0.72**).  
-- Tech: Python, PyTorch, NLP  
-
-### 2. **Media Bias Analyzer (Vertics)**  
-[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/demo-link)  
-- BERT-based classifier to detect political bias in news articles (**87% accuracy**).  
-- Tech: TensorFlow, BERT, JavaScript  
-
-### 3. **Resume Analyzer (AI-Powered)**  
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourrepo/resume-analyzer)  
-- Analyzes resume-JD compatibility using **OpenAI API** and suggests improvements.  
-- Tech: Flask, PyPDF2, NLP  
-
-### 4. **Training Cell Database**  
-- Automated script to fetch/update placement questions daily (Python + Cron).  
-- Tech: Next.js, Supabase, Tailwind CSS  
-
----
-
-## 📜 **Certifications & Achievements**
-- **IBM SkillsBuild** | AI & Machine Learning  
-- **NPTEL (IIT Kharagpur)** | Database Management Systems  
+## 📜 **Hackathons and Achievements**
 - 🏆 **Hult Prize OnCampus** | 1st Runner-Up  
 - � **Chakravyuba Hackathon 2023** | National Finalist  
-
----
-
-## 📚 **Education**
-**B.Tech in Computer Science Engineering**  
-Govt. Model Engineering College, Kochi (KTU)  
-*2021–2025*  
-
----
 
 ## 🌟 **Hobbies & Interests**
 - 🎨 Drawing | 🏸 Badminton | 📺 Anime  
@@ -77,9 +42,9 @@ Govt. Model Engineering College, Kochi (KTU)
 ---
 
 ### 🔥 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=14-Hari-14&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=14-Hari-14&layout=compact&theme=dark)  
 
 ---
 
