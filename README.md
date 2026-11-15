@@ -2,10 +2,10 @@
 
 <h1 align="center">Harishanker S Nair</h1>
 
-<p align="center"><i>AI/ML Enthusiast | Full-Stack Developer | Open-Source Contributor</i></p>
+<p align="center"><i>AI/ML Enthusiast </i></p>
 
 <p align="center">
-  Kochi, India • nhari142004@gmail.com
+  India
 </p>
 
 <p align="center">
@@ -23,11 +23,7 @@
 
 ### Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### AI/ML & Data Science  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -43,22 +39,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 1st Runner-Up – Hult Prize OnCampus Finals  
-- National Finalist – Chakravyuha Hackathon 2023  
-- Finalist – GTA SandyShores Hackathon
-
----
-
-## 🎯 Interests
-
-- Drawing 
-- Badminton  
-- Anime
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -67,7 +47,3 @@
 </div>
 
 ---
-
-## 🤝 Open to Collaborate
-
-Open to internships and projects in **AI/ML** and **Full-Stack Development**.
