@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 ### Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,11 +39,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=14-Hari-14&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14-Hari-14&layout=compact&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" width="48%"/>
-</div>
-
----
